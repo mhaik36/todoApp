@@ -1,9 +1,7 @@
 # todoApp
 todoApp mobile app using React Native.
 
-![Alt text](/screenshots/Screen1.png?raw=true "Screen1") 
-![Alt text](/screenshots/Screen2.png?raw=true "Screen2") 
-![Alt text](/screenshots/Screen3.png?raw=true "Screen3") 
+![Alt text](/screenshots/Screen.png?raw=true "Screen") 
 
 # How to use
 - Clone
@@ -14,4 +12,4 @@ todoApp mobile app using React Native.
 - Run on Android projects in emulator/device
   + react-native run-android
 # Dependencies
-- react
+- react-native
